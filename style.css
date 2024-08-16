@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap');
+
+body {
+    background-color: orange;
+}
+
+p {
+    font-family: "New Amsterdam", sans-serif;
+}
+
+h1 {
+    font-family: "Sankofa Display", sans-serif;
+}
+
+img {
+    width: 300px;
+}
+
+a{
+    
+}
