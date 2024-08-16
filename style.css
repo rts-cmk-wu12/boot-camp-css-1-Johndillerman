@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap');
 
+* {
+    position: absolute;
+}
+
 body {
     background-color: orange;
+
 }
 
 p {
@@ -11,12 +16,20 @@ p {
 
 h1 {
     font-family: "Sankofa Display", sans-serif;
+    color: blueviolet;
 }
 
 img {
     width: 300px;
+    margin-left: 100px;
 }
 
-a{
-    
+p:last-of-type {
+    color: red;
+}
+
+nav ul li {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
